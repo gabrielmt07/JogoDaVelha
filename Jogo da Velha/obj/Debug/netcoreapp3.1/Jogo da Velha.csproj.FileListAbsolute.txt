@@ -1,0 +1,13 @@
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.exe
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.deps.json
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.runtimeconfig.json
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.runtimeconfig.dev.json
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.dll
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\netcoreapp3.1\Jogo da Velha.pdb
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.csprojAssemblyReference.cache
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.AssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.dll
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.pdb
+C:\Users\GABRIEL\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\netcoreapp3.1\Jogo da Velha.genruntimeconfig.cache
